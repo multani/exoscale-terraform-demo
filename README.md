@@ -267,3 +267,12 @@ Note: You didn't specify an "-out" parameter to save this plan, so Terraform
 can't guarantee that exactly these actions will be performed if
 "terraform apply" is subsequently run.
 ```
+
+Versions used:
+
+```
+$ terraform version
+Terraform v0.11.7
++ provider.cloudstack v0.1.5
++ provider.exoscale v0.9.21
+```
